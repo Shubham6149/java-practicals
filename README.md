@@ -290,7 +290,7 @@ public class FileCopy {
 ![image alt](https://github.com/Shubham6149/java-practicals/blob/0c76db4c7c8fc90a85242281acc90490939da159/Screenshot%202025-05-21%20142629.png)
 
 
-![image alt]()
+![image alt](https://github.com/Shubham6149/java-practicals/blob/a9e825ef5b709926abd7b70bef739c2f8933a333/Screenshot%202025-05-21%20142702.png)
 
 
 # Q7 Write a program to read a file and display only those lines that have the first two characters as '//' (Use try with resources). 
