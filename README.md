@@ -318,7 +318,7 @@ public class DisplayCommentLines {
 }
 ```
 
-![image alt]()
+![image alt](https://github.com/Shubham6149/java-practicals/blob/81328ca2a595742e9beb0c12ee6132d0c7587d85/Screenshot%202025-05-21%20154039.png)
 
 # output
 ![image alt]()
