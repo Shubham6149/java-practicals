@@ -249,7 +249,7 @@ public class ExceptionDemo {
 ```
 
 # output 
-![image alt](()
+![image alt](https://github.com/Shubham6149/java-practicals/blob/b3b240524a2713bfb5ba4aa5cd13e093894346bc/Screenshot%202025-05-21%20142310.png)
 
 # Q6  Write a program that copies content of one file to another. Pass the names of the files through command-line arguments.
 
