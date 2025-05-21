@@ -371,5 +371,5 @@ public class StringInFrame extends Frame {
 ```
 
 # output
-![image alt]()
+![image alt](https://github.com/Shubham6149/java-practicals/blob/93b08e18578f92f6eea0c9802be60f0c58ff1f47/Screenshot%202025-05-21%20152311.png)
 
