@@ -287,7 +287,7 @@ public class FileCopy {
 ![image alt](https://github.com/Shubham6149/java-practicals/blob/6658de08885a3ca4dd2796712d360c657f787b31/Screenshot%202025-05-21%20142655.png)
 
 # ouput
-![image alt]()
+![image alt](https://github.com/Shubham6149/java-practicals/blob/0c76db4c7c8fc90a85242281acc90490939da159/Screenshot%202025-05-21%20142629.png)
 
 
 ![image alt]()
