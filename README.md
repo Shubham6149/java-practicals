@@ -124,7 +124,7 @@ public class Main {
 }
 ```
 # output
-![image alt]()
+![image alt](https://github.com/Shubham6149/java-practicals/blob/43257d07950e945253d3dc165c9b7aaa60326dba/Screenshot%202025-05-21%20142020.png)
 
 
 # Q3  Define an abstract class Shape in package P1. Inherit two more classes: Rectangle in package P2 and Circle in package P3. Write a program to ask the user for the type of shape and then using the concept of dynamic method dispatch, display the area of the appropriate subclass. Also write appropriate methods to read the data. The main() function should not be in any package. 
