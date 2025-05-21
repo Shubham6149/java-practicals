@@ -216,7 +216,7 @@ public class Main {
 ```
 
 # output
-![image alt]()
+![image alt](https://github.com/Shubham6149/java-practicals/blob/a97569fa6ff7abe7f9c4f4f48f697ae2a82933b7/Screenshot%202025-05-21%20144350.png)
 
 # Q4 Create an exception subclass UnderAge, which prints “Under Age” along with the age value when an object of UnderAge class is printed in the catch statement. Write a class exceptionDemo in which the method test() throws UnderAge exception if the variable age passed to it as argument is less than 18. Write main() method also to show working of the program.  
 
