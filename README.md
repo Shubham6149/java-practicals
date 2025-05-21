@@ -52,7 +52,7 @@ public class complex {
 ```
 
 # OUTPUT
-![image alt]()
+![image alt](https://github.com/Shubham6149/java-practicals/blob/87f1bd3a4ddfe772a92dc377a53c69957485a45b/Screenshot%202025-05-21%20141605.png)
 
 
 # Q2  Create a class TwoDim which contains private members as x and y coordinates in package P1. Define the default constructor, a parameterized constructor and override toString() method to display the co ordinates. Now reuse this class and in package P2 create another class ThreeDim, adding a new dimension as z as its private member.  Define the constructors for the subclass and override toString() method in the subclass also. Write appropriate methods to show dynamic method dispatch. The main() function should be in a package P. 
